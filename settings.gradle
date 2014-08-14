@@ -1,0 +1,3 @@
+include ':fibonacciCommon'
+include ':fibonacciService'
+include ':fibonacciClient'
